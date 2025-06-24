@@ -1,0 +1,1 @@
+print ("its 2nd to learn python ")
